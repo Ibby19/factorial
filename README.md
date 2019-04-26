@@ -1,6 +1,6 @@
-#Factorial
+# Factorial
 
-##Write a script called factorial.py that takes a number and returns its factorial. Use pytest in a separate file called test_factorial.py ##to test your function.
+## Write a script called factorial.py that takes a number and returns its factorial. Use pytest in a separate file called test_factorial.py to test your function.
 
 Steps:
 Think about which tests you want to do to test that the factorial function works.
